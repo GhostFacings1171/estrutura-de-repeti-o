@@ -6,7 +6,7 @@ public class repeticao {
         System.out.println("Digite o comeco da repeticao: ");
         int ini = sc.nextInt();
         System.out.println("Digite o fim da repeticao: ");
-        int end = sc.nextInt();
+        int  end = sc.nextInt();
         while (ini <= end){
             System.out.println(ini);
             ini++;
